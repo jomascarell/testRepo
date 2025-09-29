@@ -1,4 +1,5 @@
-const saludar = "Hello World!"
-console.log(`Joan Mascarell presenta: ${saludar}`);
-console.log(`Joan presenta: ${saludar}`);
-console.log(`Joan: ${saludar}`);
+let count = 0;
+while (count < 2) {
+    console.log(count);
+    count++;
+}
