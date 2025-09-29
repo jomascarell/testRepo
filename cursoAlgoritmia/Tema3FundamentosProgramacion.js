@@ -1,4 +1,4 @@
-const name = 'joan';
+const name = 'Joan';
 
 console.log(name.toUpperCase());
 
